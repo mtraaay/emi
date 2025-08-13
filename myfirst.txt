@@ -1,0 +1,6 @@
+Click on your profile picture (top right) → Account Settings.
+
+In the left menu, choose Security Settings or Security.
+
+Look for Two-Step Verification.
+
